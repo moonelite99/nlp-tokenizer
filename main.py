@@ -1,4 +1,3 @@
-from typing import Optional
 from pyvi import ViTokenizer, ViPosTagger
 from fastapi import FastAPI
 
